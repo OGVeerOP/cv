@@ -1,0 +1,29 @@
+
+  body{
+    background-color: black;
+    color: white;
+  }
+  hr{
+    background-color: black;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+  a{
+    color: orange;
+  }
+  h1{
+    color: Indianred;
+
+  }
+  h3{
+    color: Indianred;
+  }
+  .Circular{
+    border-bottom-right-radius: 100%;
+  }
+  h1:hover{
+    color: cyan;
+  }
